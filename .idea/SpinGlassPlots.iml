@@ -3,8 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/data" />
-      <excludeFolder url="file://$MODULE_DIR$/results" />
       <excludeFolder url="file://$MODULE_DIR$/P16_truncate_2_20_i21+" />
+      <excludeFolder url="file://$MODULE_DIR$/results_optim" />
+      <excludeFolder url="file://$MODULE_DIR$/P4_CFBM-P" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

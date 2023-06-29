@@ -3,7 +3,7 @@ import os
 from tqdm import tqdm
 
 cwd = os.getcwd()
-folder_path = os.path.join(cwd, "results")
+folder_path = os.path.join(cwd, "results_optim")
 
 dataframes = []
 max_sweep = []
