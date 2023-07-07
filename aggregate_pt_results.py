@@ -3,7 +3,7 @@ import os
 from tqdm import tqdm
 
 cwd = os.getcwd()
-folder_path = os.path.join(cwd, "P4_CFBM-P")
+folder_path = os.path.join(cwd, "P8_CBFM-P")
 
 dataframes = []
 instance = []
@@ -18,4 +18,4 @@ for file_name in tqdm(os.listdir(folder_path)):
 
 combined_df = pd.concat(dataframes, ignore_index=True)
 combined_df["instance"] = instance
-combined_df.to_csv("P4_CFBM-P_pt.csv", sep=";")
+combined_df.to_csv("P8_CFBM-P_pt.csv", sep=";")

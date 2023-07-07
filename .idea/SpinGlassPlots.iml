@@ -6,6 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/P16_truncate_2_20_i21+" />
       <excludeFolder url="file://$MODULE_DIR$/results_optim" />
       <excludeFolder url="file://$MODULE_DIR$/P4_CFBM-P" />
+      <excludeFolder url="file://$MODULE_DIR$/P8_CBFM-P" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
